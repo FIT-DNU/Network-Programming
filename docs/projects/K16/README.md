@@ -31,7 +31,7 @@
     | Đề số 3. Truyền file qua TCP                                                              | Lê Ngọc Hưng           | [:octocat:github](https://github.com/Wipper0000/-Truy-n-file-qua-TCP.git)                                                              |           |
     | Đề số 4. Truyền file qua UDP                                                              | Hồ Quang Huy           | [:octocat:github](https://github.com/Wipper0000/-Truy-n-file-qua-TCP.git)                                                                                                                                         |           |
     | Đề số 5. Quản lý sinh viên bằng RMI                                                       | Nguyễn Hữu Huy         | [:octocat:github](https://github.com/huuhuy2910/Network-Programming)                                                                   |           |
-    | Đề số 6. Quản lý sách – thư viện qua mạng                                                 | Đào Thị Phương Long    | [:octocat:github](https://github.com/daophuonglong2005/QUAN-LY-SACH-THU-VIEN-QUA-MANG.git)                                                                                                                                        |           |
+    | Đề số 6. Quản lý sách – thư viện qua mạng                                                 | Đào Thị Phương Long    | [:octocat:github](https://github.com/daophuonglong2005/QUAN-LY-SACH-THU-VIEN-QUA-MANG.git)                                                                                                                                        | [:octocat:github](https://github.com/Trinhmai26/BTL)           |
     | Đề số 7. Hệ thống đăng nhập Client-Server                                                 | Trịnh Thị Yến Mai      |                                                                                   |           |
     | Đề số 8. Ứng dụng đặt vé xem phim                                                         | Lê Đức Mạnh            | [:octocat:github](https://github.com/manhskillgood/UNG-DUNG-DAT-VE-XEM-PHIM)                                                           |           |
     | Đề số 9. Trò chơi Oẳn Tù Tì qua mạng                                                      | Đoàn Tuấn Nam          | [:octocat:github](https://github.com/thudeptrai218/oan-tu-ti)                                                                          |           |
@@ -131,6 +131,7 @@
 | Đề số 18. Ứng dụng trắc nghiệm trực tuyến | Khổng Minh Hoài | [:octocat:github](https://github.com/minhhoai55/LTM-1604-D18-AppTestOnline.git) | |
 | Đề số 19. Hệ thống quản lý ngân hàng mini | Lê Bá Hoan | [:octocat:github](https://github.com/h0an12/LTM-16-04-D19-Chat-UDP.git) | |
 | Đề số 20. Hệ thống cảnh báo thời gian thực (Server gửi cảnh báo tới nhiều client qua UDP) | Lã Việt Hoàng | [:octocat:github](https://github.com/Tabisan805/LTM-1604-De20-Alert-Notification-UDP) | |
+
 
 
 

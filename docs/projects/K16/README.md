@@ -26,7 +26,7 @@
     | Đề số 18. Ứng dụng trắc nghiệm trực tuyến                                                 | Trịnh Hoàng Hà         | [:octocat:github](https://github.com/TrinhHoangHa/LTM-online-quiz)                                                                     |           |
     | Đề số 19. Hệ thống quản lý ngân hàng mini                                                 | Nguyễn Quang Hiệp      | [:octocat:github](https://github.com/NguyenQuangHiep234/QuanLyNganHangMini)                                                            |           |
     | Đề số 20. Hệ thống cảnh báo thời gian thực (Server gửi cảnh báo tới nhiều client qua UDP) | Nguyễn Trung Hiếu      | [:octocat:github](https://github.com/mongkobiripface-ai/H-TH-NG-C-NH-B-O-TH-I-GIAN-TH-C-SERVER-G-I-C-NH-B-O-T-I-NHI-U-CLIENT-QUA-UDP-) |           |
-    | Đề số 1. Ứng dụng chat Client-Server sử dụng TCP                                          | Mai Đức Hoà            |                                                                                                                                        |           |
+    | Đề số 1. Ứng dụng chat Client-Server sử dụng TCP                                          | Mai Đức Hoà            |  [:octocat:github](https://github.com/maiduchoa/BTL_LAP-TRINH-MANG)                                                                                                                                         |           |
     | Đề Số 2: Chat Room dùng UDP Multicast                                                     | Nguyễn Đức Hoàn        | [:octocat:github](https://github.com/duchoan25/Chat-Room-D-ng-UDP-Multicast)                                                           |           |
     | Đề số 3. Truyền file qua TCP                                                              | Lê Ngọc Hưng           | [:octocat:github](https://github.com/Wipper0000/-Truy-n-file-qua-TCP.git)                                                              |           |
     | Đề số 4. Truyền file qua UDP                                                              | Hồ Quang Huy           | [:octocat:github](https://github.com/Wipper0000/-Truy-n-file-qua-TCP.git)                                                                                                                                         |           |
@@ -131,6 +131,7 @@
 | Đề số 18. Ứng dụng trắc nghiệm trực tuyến | Khổng Minh Hoài | [:octocat:github](https://github.com/minhhoai55/LTM-1604-D18-AppTestOnline.git) | |
 | Đề số 19. Hệ thống quản lý ngân hàng mini | Lê Bá Hoan | [:octocat:github](https://github.com/h0an12/LTM-16-04-D19-Chat-UDP.git) | |
 | Đề số 20. Hệ thống cảnh báo thời gian thực (Server gửi cảnh báo tới nhiều client qua UDP) | Lã Việt Hoàng | [:octocat:github](https://github.com/Tabisan805/LTM-1604-De20-Alert-Notification-UDP) | |
+
 
 
 

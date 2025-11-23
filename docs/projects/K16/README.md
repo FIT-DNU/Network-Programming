@@ -30,7 +30,7 @@
 | Đề số 9. Trò chơi Oẳn Tù Tì qua mạng                                                      | Nguyễn Mạnh Cường      | [:octocat:github](https://github.com/NguyenManhCuongKCNTT/BTL-LapTrinhMang) | |
 | Đề số 9. Trò chơi Oẳn Tù Tì qua mạng                                                      | Đoàn Tuấn Nam          | [:octocat:github](https://github.com/thudeptrai218/oan-tu-ti) | |
 | Đề số 10. Ứng dụng điều khiển máy tính từ xa (Remote Control)                             | Nguyễn Tiến Dũng       | [:octocat:github](https://github.com/mrdung19/LTM-Dieu-Khien-May-Tinh-Tu-Xa) | |
-| Đề số 10. Ứng dụng điều khiển máy tính từ xa (Remote Control)                             | Phạm Đình Nghĩa        | [:octocat:github](https://github.com/dinhnghia204/Remote_Control) | |
+| Đề số 10. Ứng dụng điều khiển máy tính từ xa (Remote Control)                             | Phạm Đình Nghĩa        | [:octocat:github](https://github.com/dinhnghia204/Remote_Control_) | |
 | Đề số 11. Game Tic Tac Toe (Caro 3x3)                                                     | Đặng Trường Dương      | [:octocat:github](https://github.com/DangTruongDuong/Caro_Chess.git) | |
 | Đề số 11. Game Tic Tac Toe (Caro 3x3)                                                     | Nguyễn Đào Phúc Nguyên | [:octocat:github](https://github.com/pnguyen1310/Game_Tic_Tac_Toe_TCP.git) | |
 | Đề số 12. Tra cứu từ điển Anh-Việt                                                        | Nguyễn Đức Duy         | [:octocat:github](github.com/nguyenducduy2612/Ung_Dung_Tra_Cuu_Tu_Dien_Anh_Viet) | |
@@ -130,6 +130,7 @@
 | Đề số 18. Ứng dụng trắc nghiệm trực tuyến | Khổng Minh Hoài | [:octocat:github](https://github.com/minhhoai55/LTM-1604-D18-AppTestOnline.git) | |
 | Đề số 19. Hệ thống quản lý ngân hàng mini | Lê Bá Hoan | [:octocat:github](https://github.com/h0an12/LTM-16-04-D19-Chat-UDP.git) | |
 | Đề số 20. Hệ thống cảnh báo thời gian thực (Server gửi cảnh báo tới nhiều client qua UDP) | Lã Việt Hoàng | [:octocat:github](https://github.com/Tabisan805/LTM-1604-De20-Alert-Notification-UDP) | |
+
 
 
 
